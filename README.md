@@ -13,6 +13,8 @@
 ***
 
 ## 1. Breve descripción del proyecto "Pokematch"
+Despliegue sitio -> https://nicobustosgonzalez.github.io/SCL021-memory-match/src/index.html
+
 Memory match es un juego de cartas en donde todas estas se distribuyen boca abajo y el usurio va descubriendo de a dos cartas con el fin de conseguir pares iguales hasta que todas esten con su respectiva pareja.
 El contexto de nuestro proyecto es un concurso para las egresadas y estudiantes de Laboratoria en el cual el único requisito es ingresar tu cohorte y nombre.
 En Pokematch se disponen de 18 cartas para dar vuelta y encontrar los pares en un tiempo de 40 segundos, si esto se consigue el usuario estará participando por una Nintendo Switch + Pokemon legends: Arceus, de no completar el tablero en el tiempo indicado se le llevará a una pantalla de game over en donde podrá reingresar al juego.
