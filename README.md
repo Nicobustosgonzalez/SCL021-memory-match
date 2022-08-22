@@ -13,7 +13,7 @@
 ***
 
 ## 1. Breve descripción del proyecto "Pokematch"
-Despliegue sitio -> https://nicobustosgonzalez.github.io/SCL021-memory-match/src/index.html
+Despliegue sitio -> https://nicobustosgonzalez.github.io/SCL021-memory-match/src/memorymatchtiarenico.html
 
 Memory match es un juego de cartas en donde todas estas se distribuyen boca abajo y el usurio va descubriendo de a dos cartas con el fin de conseguir pares iguales hasta que todas esten con su respectiva pareja.
 El contexto de nuestro proyecto es un concurso para las egresadas y estudiantes de Laboratoria en el cual el único requisito es ingresar tu cohorte y nombre.
